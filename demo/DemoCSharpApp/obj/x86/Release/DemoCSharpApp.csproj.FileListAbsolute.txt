@@ -1,0 +1,14 @@
+F:\工作\company\exosight-tech\project\prj001-ubert\ubert_dll\trunk\dlp\DemoCSharpApp\bin\x86\Release\DemoCSharpApp.exe
+F:\工作\company\exosight-tech\project\prj001-ubert\ubert_dll\trunk\dlp\DemoCSharpApp\bin\x86\Release\DemoCSharpApp.pdb
+F:\工作\company\exosight-tech\project\prj001-ubert\ubert_dll\trunk\dlp\DemoCSharpApp\obj\x86\Release\DemoCSharpApp.Form1.resources
+F:\工作\company\exosight-tech\project\prj001-ubert\ubert_dll\trunk\dlp\DemoCSharpApp\obj\x86\Release\DemoCSharpApp.Properties.Resources.resources
+F:\工作\company\exosight-tech\project\prj001-ubert\ubert_dll\trunk\dlp\DemoCSharpApp\obj\x86\Release\DemoCSharpApp.csproj.GenerateResource.Cache
+F:\工作\company\exosight-tech\project\prj001-ubert\ubert_dll\trunk\dlp\DemoCSharpApp\obj\x86\Release\DemoCSharpApp.exe
+F:\工作\company\exosight-tech\project\prj001-ubert\ubert_dll\trunk\dlp\DemoCSharpApp\obj\x86\Release\DemoCSharpApp.pdb
+F:\work\company\exosight-tech\project\prj001-ubert\ubert_dll\trunk\dlp\DemoCSharpApp\obj\x86\Release\DemoCSharpApp.exe
+F:\work\company\exosight-tech\project\prj001-ubert\ubert_dll\trunk\dlp\DemoCSharpApp\obj\x86\Release\DemoCSharpApp.pdb
+F:\work\company\exosight-tech\project\prj001-ubert\ubert_dll\trunk\dlp\DemoCSharpApp\bin\x86\Release\DemoCSharpApp.exe
+F:\work\company\exosight-tech\project\prj001-ubert\ubert_dll\trunk\dlp\DemoCSharpApp\bin\x86\Release\DemoCSharpApp.pdb
+F:\work\company\exosight-tech\project\prj001-ubert\ubert_dll\trunk\dlp\DemoCSharpApp\obj\x86\Release\DemoCSharpApp.Form1.resources
+F:\work\company\exosight-tech\project\prj001-ubert\ubert_dll\trunk\dlp\DemoCSharpApp\obj\x86\Release\DemoCSharpApp.Properties.Resources.resources
+F:\work\company\exosight-tech\project\prj001-ubert\ubert_dll\trunk\dlp\DemoCSharpApp\obj\x86\Release\DemoCSharpApp.csproj.GenerateResource.Cache

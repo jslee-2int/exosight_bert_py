@@ -1,0 +1,7 @@
+F:\work\company\exosight-tech\project\prj001-ubert\ubert_dll\trunk\ver\V0.7-201904222350\DevDllVer0.7\demo\DemoCSharpApp\bin\Any CPU\Debug\DemoCSharpApp.exe
+F:\work\company\exosight-tech\project\prj001-ubert\ubert_dll\trunk\ver\V0.7-201904222350\DevDllVer0.7\demo\DemoCSharpApp\bin\Any CPU\Debug\DemoCSharpApp.pdb
+F:\work\company\exosight-tech\project\prj001-ubert\ubert_dll\trunk\ver\V0.7-201904222350\DevDllVer0.7\demo\DemoCSharpApp\obj\Debug\DemoCSharpApp.Form1.resources
+F:\work\company\exosight-tech\project\prj001-ubert\ubert_dll\trunk\ver\V0.7-201904222350\DevDllVer0.7\demo\DemoCSharpApp\obj\Debug\DemoCSharpApp.Properties.Resources.resources
+F:\work\company\exosight-tech\project\prj001-ubert\ubert_dll\trunk\ver\V0.7-201904222350\DevDllVer0.7\demo\DemoCSharpApp\obj\Debug\DemoCSharpApp.csproj.GenerateResource.Cache
+F:\work\company\exosight-tech\project\prj001-ubert\ubert_dll\trunk\ver\V0.7-201904222350\DevDllVer0.7\demo\DemoCSharpApp\obj\Debug\DemoCSharpApp.exe
+F:\work\company\exosight-tech\project\prj001-ubert\ubert_dll\trunk\ver\V0.7-201904222350\DevDllVer0.7\demo\DemoCSharpApp\obj\Debug\DemoCSharpApp.pdb
